@@ -9,3 +9,5 @@ have a maximum amplitude of 1. All images are centered (i.e., middle is the maxi
 pre-analysis (use Gaussian fit to identify center and rescale ROI).
 
 After the data has been loaded (with options for noise and fringes), train the neural network and run the analysis to see how the net does. Currently, the analysis has the test set loaded (and hardcoded in) but can be changed to the analysis set for diagnostics and improvement of hyper parameters.
+
+For details and results see christopherluciuk.ca
